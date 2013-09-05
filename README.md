@@ -33,7 +33,7 @@ On the server we now have the following controllers and endpoints:
 | users.create | POST /users | Create a user |
 | users.list | GET /users  | Get a listing of users |
 | users.read | GET /users/:id | Get details about a user |
-| users.update | POST /users/:id | Update a user|
+| users.update | PUT /users/:id | Update a user|
 | users.delete | DELETE /users/:id | Delete a user |
 
 ### Customize behavior
